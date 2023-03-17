@@ -1,7 +1,9 @@
 .button {
-  margin: 15px;
+  margin: 15px 15px 15px 0;
 }
 
-.button:first-child {
-  margin-left: 0;
+@media screen and (max-width: 360px) {
+  .button {
+    margin: 5px 5px 5px 0;
+  }
 }
