@@ -1,0 +1,9 @@
+.portfolio__links {
+  margin: 60px 0 20px;
+}
+
+@media screen and (max-width: 600px) {
+  .portfolio__links {
+    margin: 40px 0 10px;
+  }
+}
