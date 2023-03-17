@@ -9,6 +9,7 @@
 @import url(./promo/__row/promo__row.css);
 @import url(./portfolio/portfolio.css);
 @import url(./portfolio/__card/portfolio__card.css);
+@import url(./portfolio/__card/_img/portfoliom__card_img.css);
 @import url(./portfolio/__card-badges/portfolio__card-badges.css);
 @import url(./portfolio/__card-badges/_badge/portfolio__card-badges_badge.css);
 @import url(./portfolio/__links/portfolio__links.css);
