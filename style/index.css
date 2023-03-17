@@ -7,10 +7,17 @@
 @import url(./button/button.css);
 @import url(./cv/cv__scroll-down.css);
 @import url(./promo/__row/promo__row.css);
-@import url(./portfolio/portfolio.css);
+@import url(./section/section.css);
 @import url(./portfolio/__card/portfolio__card.css);
 @import url(./portfolio/__card/_img/portfoliom__card_img.css);
 @import url(./portfolio/__card-badges/portfolio__card-badges.css);
 @import url(./portfolio/__card-badges/_badge/portfolio__card-badges_badge.css);
 @import url(./portfolio/__links/portfolio__links.css);
 @import url(./portfolio/__links/_link/portfolio__links_link.css);
+
+
+@import url(./contacts/__link-list/contacts__link-list.css);
+@import url(./contacts/__link-list/_item/contacts__link-list_item.css);
+@import url(./contacts/__icon/contacts__icon.css);
+@import url(./contacts/__image/contacts__image.css);
+
