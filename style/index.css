@@ -22,3 +22,6 @@
 @import url(./technology/__group/technology__group.css);
 @import url(./technology/__group/_img/technology__group_img.css);
 @import url(./technology/__group/_text/technology__group_text.css);
+@import url(./sertificates/__list/sertificates__list.css);
+@import url(./sertificates/__list/_item/sertificates__list_item.css);
+@import url(./sertificates/__list/_img/sertificates__list_img.css);
