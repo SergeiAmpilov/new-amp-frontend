@@ -1,7 +1,6 @@
 @import url(./vendor/normalize.css);
 @import url(./vendor/fonts.css);
 @import url(./vendor/materialize.min.css);
-
 @import url(./page/page.css);
 @import url(./header/header.css);
 @import url(./button/button.css);
@@ -14,10 +13,14 @@
 @import url(./portfolio/__card-badges/_badge/portfolio__card-badges_badge.css);
 @import url(./portfolio/__links/portfolio__links.css);
 @import url(./portfolio/__links/_link/portfolio__links_link.css);
-
-
 @import url(./contacts/__link-list/contacts__link-list.css);
 @import url(./contacts/__link-list/_item/contacts__link-list_item.css);
 @import url(./contacts/__icon/contacts__icon.css);
 @import url(./contacts/__image/contacts__image.css);
-
+@import url(./technology/technology.css);
+@import url(./technology/__section/technology__section.css);
+@import url(./technology/__title/technology__title.css);
+@import url(./technology/__description/technology__description.css);
+@import url(./technology/__group/technology__group.css);
+@import url(./technology/__group/_img/technology__group_img.css);
+@import url(./technology/__group/_text/technology__group_text.css);
