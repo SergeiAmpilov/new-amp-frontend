@@ -13,6 +13,8 @@
 @import url(./portfolio/__card-badges/_badge/portfolio__card-badges_badge.css);
 @import url(./portfolio/__links/portfolio__links.css);
 @import url(./portfolio/__links/_link/portfolio__links_link.css);
+@import url(./contacts/contacts.css);
+
 @import url(./contacts/__link-list/contacts__link-list.css);
 @import url(./contacts/__link-list/_item/contacts__link-list_item.css);
 @import url(./contacts/__icon/contacts__icon.css);
@@ -22,6 +24,7 @@
 @import url(./technology/__group/technology__group.css);
 @import url(./technology/__group/_img/technology__group_img.css);
 @import url(./technology/__group/_text/technology__group_text.css);
+@import url(./education/education.css);
 @import url(./sertificates/__list/sertificates__list.css);
 @import url(./sertificates/__list/_item/sertificates__list_item.css);
 @import url(./sertificates/__list/_img/sertificates__list_img.css);
