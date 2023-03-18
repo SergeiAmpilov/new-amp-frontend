@@ -9,7 +9,6 @@
 }
 
 .technology__group:hover {
-  color: #043873;
-  background-color: #FFE492;
-  box-shadow: 0 0 8px #ffe492;
+  background-color: #0091ea;
+  box-shadow: 0 0 8px #0091ea;
 }
